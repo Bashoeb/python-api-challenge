@@ -1,0 +1,6 @@
+WeatherPy/
+# Exclude individual files within WeatherPy/
+!WeatherPy/somefile.txt
+!WeatherPy/anotherfile.py
+
+
